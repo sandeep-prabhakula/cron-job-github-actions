@@ -2,7 +2,7 @@ name: Run Python Cron Job
 
 on:
   schedule:
-    - cron: '30 9 * * *'  # Every day at midnight UTC
+    - cron: '0 3 * * *'  # Every day at midnight UTC
   workflow_dispatch:     # Optional: allows you to manually trigger the workflow
 
 jobs:
