@@ -23,7 +23,6 @@ def mapUserAndBlogs():
     try:
         articles = getAllBlogs()
         emails = [
-            "ganapavarapuanusha@gmail.com",
             "ihere5053@gmail.com",
             "jayaaditya2003@gmail.com",
             "uma83857@gmail.com",
@@ -65,7 +64,6 @@ def mapUserAndBlogs():
             "kadari.neeraja@gmail.com",
             "hemamorarjee@jntuh.ac.in",
             "hemamorarjee@gmail.com",
-            "sam@jntuh.ac.in",
             "kranthikiran9@gmail.com",
             "sarathbabu.rakki@jntuhceh.ac.in",
             "sharath.rakki@gmail.com",
