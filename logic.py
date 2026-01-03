@@ -25,9 +25,7 @@ def mapUserAndBlogs():
         emails = [
             "ihere5053@gmail.com",
             "jayaaditya2003@gmail.com",
-            "uma83857@gmail.com",
             "prudvinathch@gmail.com",
-            "ravillaleelasai6642@gmail.com",
             "garabhargav@gmail.com",
             "sasidharreddyyennam@gmail.com",
             "venkatsatavahana@gmail.com",
@@ -37,7 +35,6 @@ def mapUserAndBlogs():
             "supreethi.pujari@jntuh.ac.in",
             "supreethi.pujari@gmail.com",
             "kamakshiprasad@jntuh.ac.in",
-            "kamakshiprasad@yahoo.com",
             "govardhan_cse@jntuh.ac.in",
             "vijayakumari.gunta@gmail.com",
             "obvramanaiah@jntuh.ac.in",
