@@ -84,7 +84,7 @@ def sendEmails():
     try:
 
         SMTP_SERVER = "smtp.gmail.com"
-        SMTP_PORT = 2525
+        SMTP_PORT = 587
         SMTP_USERNAME = os.getenv("SMTP_USERNAME")
         SMTP_PASSWORD = os.getenv("SMTP_PASSWORD")
         from_addr = os.getenv("SMTP_USERNAME")
