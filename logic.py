@@ -61,7 +61,6 @@ def mapUserAndBlogs():
             "nagishettipraveena@gmail.com",
             "nareshkumar.amrutham@jntuhceh.ac.in",
             "amruthamnaresh@gmail.com",
-            "kulkarni.ajaykumar@gmail.com",
             "reddy996655@gmail.com",
             "g_bharanipriya@yahoo.co.in",
             "pratima.depa@gmail.com"
