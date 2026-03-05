@@ -42,7 +42,6 @@ def mapUserAndBlogs():
             "c_miryala@jntuh.ac.in",
             "mratnajntu@jntuh.ac.in",
             "mratnajntu@gmail.com",
-            "kare_suresh@jntuh.ac.in",
             "kare_suresh@yahoo.co.in",
             "ujwala_rekha@jntuh.ac.in",
             "ujwala_rekha@yahoo.com",
